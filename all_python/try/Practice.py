@@ -52,23 +52,8 @@ print("But " + name3 + " only liked one girl")
 print("The girl was " + female)
 print("That is all for now")
 
+#functions
+def dinner(name):
+    print("We will have mac n' cheese for dinner " + name+ " and thats final")
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+dinner("jesse")
