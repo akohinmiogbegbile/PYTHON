@@ -57,3 +57,18 @@ def dinner(name):
     print("We will have mac n' cheese for dinner " + name+ " and thats final")
 
 dinner("jesse")
+
+#todo #write a code to find the even numbers from 0-30
+#while loops
+i = 100000000000000000000000000000000000000000000000000000000000000
+while i <=10000000000000000000000000000000000000000000000000000:
+    print(i)
+    i = i + 100000000000000000000000000000000000000
+print(i)
+
+
+i = 100
+while i <=100:
+    print(i)
+    i = i+2
+print(i)
