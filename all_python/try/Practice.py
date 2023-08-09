@@ -60,15 +60,26 @@ dinner("jesse")
 
 #todo #write a code to find the even numbers from 0-30
 #while loops
-i = 100000000000000000000000000000000000000000000000000000000000000
-while i <=10000000000000000000000000000000000000000000000000000:
+i = 1000
+while i <=1000:
     print(i)
-    i = i + 100000000000000000000000000000000000000
+    i = i + 10
 print(i)
-
-
 i = 100
 while i <=100:
     print(i)
     i = i+2
 print(i)
+
+print("---------------------------------")
+#exponential function
+def power_raising (base_num, power_num):
+    res = 1
+    for i in range(power_num):
+        res = res * base_num
+    return res
+print(power_raising(3,3))
+
+
+
+
