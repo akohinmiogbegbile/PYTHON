@@ -1,0 +1,8 @@
+John = Receptionist
+David = Ceo
+Sam = Secretary
+Philip = Special advisor to the Ceo
+Josephine = Cleaning operativeToby - Human Resources
+Toby - Human Resources
+Toby - Human Resources
+Elvis - Customer assistant
